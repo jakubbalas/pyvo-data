@@ -23,6 +23,10 @@ talks:
         a LOT of decorators, chaining, proxy objects, and introspection.
 
         Ladislav Dobrovský works as researcher at CEITEC BUT with HPC systems and uses Python since 3.3 (2012). Likes also C++ and GPUs.
+      coverage:
+        - video: https://www.youtube.com/watch?v=Ofvhbji6kpo
+        - slides: https://github.com/pyvec/talks-archive/blob/master/brno-2026-01-29-ladislav-dobrovsky-beautiful-apis.pdf
+
     - title: Are you working with a dataset so large that your notebook running Pandas starts to freeze?
       speakers:
         - Dalibor Trapl
@@ -36,3 +40,13 @@ talks:
         Hi, I’m Dalibor. I moved from computational molecular simulation research to a Data Analyst role at Datamole during COVID lockdown.
         My daily work revolves around time-series analysis.
         I started out as a Pandas power user and have been adopting the latest tools in the Python data stack in recent years.
+      coverage:
+        - video: https://www.youtube.com/watch?v=f3yWuSfE89U
+
+    - title: Projekt Quiz CLI (2026) & Roboprojekt (2018)
+      lightning: true
+      speakers:
+        - Martin Zelený
+        - Petr Viktorin
+      coverage:
+        - video: https://www.youtube.com/watch?v=b15-esKWswc
